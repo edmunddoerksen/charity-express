@@ -1,0 +1,40 @@
+{
+  "name": "charityexpressbackend",
+  "version": "1.0.0",
+  "description": "backend for the charity express web app. Implemented using mongodb and express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --coverage --runInBand",
+    "lint": "npx eslint *.js",
+    "build": "npm install && cd Frontend && npm install && npm run build"
+  },
+  "keywords": [
+    "backend",
+    "mongodb",
+    "express",
+    "nodejs"
+  ],
+  "author": "charityexpress",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongo-dot-notation": "^3.1.0",
+    "mongodb": "^5.2.0",
+    "nodemon": "^2.0.22",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "eslint": "^8.38.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.27.5",
+    "supertest": "^6.3.3"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}

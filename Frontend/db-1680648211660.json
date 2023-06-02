@@ -1,0 +1,1181 @@
+{
+  "charities": [
+    {
+      "id": 1,
+      "orgname": "Red Cross",
+      "orgID": "redcross",
+      "email": "admin@redcross.org",
+      "address": "1 University Rd",
+      "city": "Boston",
+      "state": "MA",
+      "coordinates": {
+        "lat": 42.3512268,
+        "lng": -71.1098411
+      },
+      "website": "https://www.redcross.org/",
+      "social_medias": [
+        {
+          "social_media": "twitter",
+          "link": "https://twitter.com/RedCross"
+        },
+        {
+          "social_media": "instagram",
+          "link": "https://www.instagram.com/americanredcross/"
+        }
+      ],
+      "imgID": "1JWjNA-uBUiPnpgXl86YzZY7HDdRitFDx",
+      "tag": "Relief",
+      "rating": "5 Stars",
+      "size": "Large",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vulputate, purus sit amet luctus convallis, enim augue gravida mi, at tempor dui enim sed dui. Integer id mauris non nibh pulvinar tristique.",
+      "purpose": "Sed imperdiet ullamcorper sapien, a aliquet dolor gravida nec. Quisque vel dolor auctor, ornare nisl nec, dictum tortor. Donec eleifend blandit diam at lobortis. In lacinia augue eu nisl consequat, nec venenatis justo hendrerit.",
+      "items": [
+        {
+          "item": "Winter Jackets",
+          "needed": 50,
+          "received": 42
+        },
+        {
+          "item": "Boots",
+          "needed": 50,
+          "received": 31
+        },
+        {
+          "item": "Canned Soup",
+          "needed": 50,
+          "received": 46
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "id": 2,
+      "orgname": "Doctors Without Borders",
+      "orgID": "doctorswithoutborders",
+      "email": "admin@doctorswithoutborders.org",
+      "address": "40 Rector St.",
+      "location": "New York, NY",
+      "city": "New York",
+      "state": "NY",
+      "coordinates": {
+        "lat": 40.71,
+        "lng": -74.01
+      },
+      "website": "https://www.doctorswithoutborders.org/",
+      "social_medias": [
+        {
+          "social_media": "twitter",
+          "link": "https://twitter.com/MSF_USA"
+        },
+        {
+          "social_media": "instagram",
+          "link": "https://www.instagram.com/doctorswithoutborders/"
+        }
+      ],
+      "imgID": "1_BYSWEFnZ9G69PTJL5hGpO1lxw7nIIBT",
+      "tag": "Relief",
+      "rating": "5 Stars",
+      "size": "Large",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vulputate, purus sit amet luctus convallis, enim augue gravida mi, at tempor dui enim sed dui. Integer id mauris non nibh pulvinar tristique.",
+      "purpose": "Sed imperdiet ullamcorper sapien, a aliquet dolor gravida nec. Quisque vel dolor auctor, ornare nisl nec, dictum tortor. Donec eleifend blandit diam at lobortis. In lacinia augue eu nisl consequat, nec venenatis justo hendrerit.",
+      "items": [
+        {
+          "item": "Winter Jackets",
+          "needed": 50,
+          "received": 50
+        },
+        {
+          "item": "Boots",
+          "needed": 50,
+          "received": 50
+        },
+        {
+          "item": "Canned Soup",
+          "needed": 50,
+          "received": 50
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "id": 3,
+      "orgname": "International Rescue Committee",
+      "orgID": "irc",
+      "email": "admin@irc.org",
+      "address": "122 East 42nd Street",
+      "location": "New York, NY",
+      "city": "New York",
+      "state": "NY",
+      "coordinates": {
+        "lat": 40.75,
+        "lng": -73.98
+      },
+      "website": "https://www.rescue.org//",
+      "social_medias": [
+        {
+          "social_media": "twitter",
+          "link": "https://twitter.com/RESCUEorg"
+        },
+        {
+          "social_media": "instagram",
+          "link": "https://www.instagram.com/RESCUEorg/"
+        }
+      ],
+      "imgID": "1e-YxFNuvuq82RL5jHfW2vWzF_R54emIy",
+      "tag": "Relief",
+      "rating": "5 Stars",
+      "size": "Large",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vulputate, purus sit amet luctus convallis, enim augue gravida mi, at tempor dui enim sed dui. Integer id mauris non nibh pulvinar tristique.",
+      "purpose": "Sed imperdiet ullamcorper sapien, a aliquet dolor gravida nec. Quisque vel dolor auctor, ornare nisl nec, dictum tortor. Donec eleifend blandit diam at lobortis. In lacinia augue eu nisl consequat, nec venenatis justo hendrerit.",
+      "items": [
+        {
+          "item": "Winter Jackets",
+          "needed": 50,
+          "received": 31
+        },
+        {
+          "item": "Boots",
+          "needed": 50,
+          "received": 23
+        },
+        {
+          "item": "Canned Soup",
+          "needed": 50,
+          "received": 45
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "id": 4,
+      "orgname": "Feeding America",
+      "orgID": "feedingamerica",
+      "email": "admin@feedingamerica.org",
+      "address": "161 N Clark St.",
+      "location": "Chicago, IL",
+      "city": "Chicago",
+      "state": "IL",
+      "coordinates": {
+        "lat": 41.88,
+        "lng": -87.63
+      },
+      "website": "https://www.feedingamerica.org/",
+      "social_medias": [
+        {
+          "social_media": "twitter",
+          "link": "https://twitter.com/FeedingAmerica"
+        },
+        {
+          "social_media": "instagram",
+          "link": "https://www.instagram.com/feedingamerica/"
+        }
+      ],
+      "imgID": "1nvO4yJzaZ3LXetqCFg4BEJC1xAsOMuzr",
+      "tag": "Food",
+      "rating": "5 Stars",
+      "size": "Large",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vulputate, purus sit amet luctus convallis, enim augue gravida mi, at tempor dui enim sed dui. Integer id mauris non nibh pulvinar tristique.",
+      "purpose": "Sed imperdiet ullamcorper sapien, a aliquet dolor gravida nec. Quisque vel dolor auctor, ornare nisl nec, dictum tortor. Donec eleifend blandit diam at lobortis. In lacinia augue eu nisl consequat, nec venenatis justo hendrerit.",
+      "items": [
+        {
+          "item": "Winter Jackets",
+          "needed": 50,
+          "received": 31
+        },
+        {
+          "item": "Boots",
+          "needed": 50,
+          "received": 25
+        },
+        {
+          "item": "Canned Soup",
+          "needed": 50,
+          "received": 45
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "id": 5,
+      "orgname": "St. Jude Children's Research Hospital",
+      "orgID": "stjude",
+      "email": "admin@stjude.org",
+      "address": "262 Danny Thomas Place",
+      "location": "Memphis, TN",
+      "city": "Memphis",
+      "state": "TN",
+      "coordinates": {
+        "lat": 35.16,
+        "lng": -90.04
+      },
+      "website": "https://www.stjude.org/",
+      "social_medias": [
+        {
+          "social_media": "twitter",
+          "link": "https://twitter.com/stjude"
+        },
+        {
+          "social_media": "instagram",
+          "link": "https://www.instagram.com/stjude/"
+        }
+      ],
+      "imgID": "1ISNMQGygeTjOkgCM0OmFALq3CkP_t3uY",
+      "tag": "Disease",
+      "rating": "5 Stars",
+      "size": "Large",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vulputate, purus sit amet luctus convallis, enim augue gravida mi, at tempor dui enim sed dui. Integer id mauris non nibh pulvinar tristique.",
+      "purpose": "Sed imperdiet ullamcorper sapien, a aliquet dolor gravida nec. Quisque vel dolor auctor, ornare nisl nec, dictum tortor. Donec eleifend blandit diam at lobortis. In lacinia augue eu nisl consequat, nec venenatis justo hendrerit.",
+      "items": [
+        {
+          "item": "Winter Jackets",
+          "needed": 50,
+          "received": 31
+        },
+        {
+          "item": "Boots",
+          "needed": 50,
+          "received": 28
+        },
+        {
+          "item": "Canned Soup",
+          "needed": 50,
+          "received": 50
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "id": 6,
+      "orgname": "The Salvation Army",
+      "orgID": "salvationarmy",
+      "email": "admin@salvationarmy.org",
+      "address": "615 Slaters Ln",
+      "location": "Alexandria, VA",
+      "city": "Alexandria",
+      "state": "VA",
+      "coordinates": {
+        "lat": 38.82,
+        "lng": -77.04
+      },
+      "website": "https://www.salvationarmyusa.org/usn/",
+      "social_medias": [
+        {
+          "social_media": "twitter",
+          "link": "https://twitter.com/salvationarmyus"
+        },
+        {
+          "social_media": "instagram",
+          "link": "https://www.instagram.com/salvationarmyus/"
+        }
+      ],
+      "imgID": "1kJcqZwncXRiFUdLPOqjfvJ9cPYRswES-",
+      "tag": "Relief",
+      "rating": "5 Stars",
+      "size": "Large",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vulputate, purus sit amet luctus convallis, enim augue gravida mi, at tempor dui enim sed dui. Integer id mauris non nibh pulvinar tristique.",
+      "purpose": "Sed imperdiet ullamcorper sapien, a aliquet dolor gravida nec. Quisque vel dolor auctor, ornare nisl nec, dictum tortor. Donec eleifend blandit diam at lobortis. In lacinia augue eu nisl consequat, nec venenatis justo hendrerit.",
+      "items": [
+        {
+          "item": "Winter Jackets",
+          "needed": 50,
+          "received": 31
+        },
+        {
+          "item": "Boots",
+          "needed": 50,
+          "received": 25
+        },
+        {
+          "item": "Canned Soup",
+          "needed": 50,
+          "received": 45
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "id": 7,
+      "orgname": "Boys & Girls Clubs of America",
+      "orgID": "bgca",
+      "email": "admin@dbgca.org",
+      "address": "1275 Peachtree Street NE",
+      "location": "Atlanta, GA",
+      "city": "Atlanta",
+      "state": "GA",
+      "coordinates": {
+        "lat": 33.79,
+        "lng": -84.38
+      },
+      "website": "https://www.bgca.org/",
+      "social_medias": [
+        {
+          "social_media": "twitter",
+          "link": "https://twitter.com/BGCA_Clubs"
+        },
+        {
+          "social_media": "instagram",
+          "link": "https://www.instagram.com/BGCA_Clubs/"
+        }
+      ],
+      "imgID": "1diR0K-Oj3ozcCRYppAkwR5xSBovZ2OVy",
+      "tag": "Other",
+      "rating": "5 Stars",
+      "size": "Large",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vulputate, purus sit amet luctus convallis, enim augue gravida mi, at tempor dui enim sed dui. Integer id mauris non nibh pulvinar tristique.",
+      "purpose": "Sed imperdiet ullamcorper sapien, a aliquet dolor gravida nec. Quisque vel dolor auctor, ornare nisl nec, dictum tortor. Donec eleifend blandit diam at lobortis. In lacinia augue eu nisl consequat, nec venenatis justo hendrerit.",
+      "items": [
+        {
+          "item": "Winter Jackets",
+          "needed": 50,
+          "received": 32
+        },
+        {
+          "item": "Boots",
+          "needed": 50,
+          "received": 22
+        },
+        {
+          "item": "Canned Soup",
+          "needed": 50,
+          "received": 45
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "id": 8,
+      "orgname": "American Cancer Society",
+      "orgID": "acs",
+      "email": "admin@acs.org",
+      "address": "1599 Clifton Rd NE",
+      "location": "Atlanta, GA",
+      "city": "Atlanta",
+      "state": "GA",
+      "coordinates": {
+        "lat": 33.78,
+        "lng": -84.32
+      },
+      "website": "https://www.cancer.org/",
+      "social_medias": [
+        {
+          "social_media": "twitter",
+          "link": "https://twitter.com/AmericanCancer"
+        },
+        {
+          "social_media": "instagram",
+          "link": "https://www.instagram.com/americancancersociety/"
+        }
+      ],
+      "imgID": "1htFnaBzlEJ03etLx_xDNomFDN1a-v7UQ",
+      "tag": "Disease",
+      "rating": "5 Stars",
+      "size": "Large",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vulputate, purus sit amet luctus convallis, enim augue gravida mi, at tempor dui enim sed dui. Integer id mauris non nibh pulvinar tristique.",
+      "purpose": "Sed imperdiet ullamcorper sapien, a aliquet dolor gravida nec. Quisque vel dolor auctor, ornare nisl nec, dictum tortor. Donec eleifend blandit diam at lobortis. In lacinia augue eu nisl consequat, nec venenatis justo hendrerit.",
+      "items": [
+        {
+          "item": "Winter Jackets",
+          "needed": 50,
+          "received": 31
+        },
+        {
+          "item": "Boots",
+          "needed": 50,
+          "received": 29
+        },
+        {
+          "item": "Canned Soup",
+          "needed": 50,
+          "received": 47
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "id": 9,
+      "orgname": "Planned Parenthood Federation of America",
+      "orgID": "plannedparenthood",
+      "email": "admin@plannedparenthood.org",
+      "address": "17 N. State Street",
+      "location": "Chicago, IL",
+      "city": "Chicago",
+      "state": "IL",
+      "coordinates": {
+        "lat": 41.88,
+        "lng": -87.63
+      },
+      "website": "https://www.plannedparenthood.org/",
+      "social_medias": [
+        {
+          "social_media": "twitter",
+          "link": "https://twitter.com/PPFA"
+        },
+        {
+          "social_media": "instagram",
+          "link": "https://www.instagram.com/plannedparenthood/"
+        }
+      ],
+      "imgID": "1FWeubV5rWrMoGaW2jJg2kE6mWf0IXygJ",
+      "tag": "Other",
+      "rating": "5 Stars",
+      "size": "Large",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vulputate, purus sit amet luctus convallis, enim augue gravida mi, at tempor dui enim sed dui. Integer id mauris non nibh pulvinar tristique.",
+      "purpose": "Sed imperdiet ullamcorper sapien, a aliquet dolor gravida nec. Quisque vel dolor auctor, ornare nisl nec, dictum tortor. Donec eleifend blandit diam at lobortis. In lacinia augue eu nisl consequat, nec venenatis justo hendrerit.",
+      "items": [
+        {
+          "item": "Winter Jackets",
+          "needed": 50,
+          "received": 31
+        },
+        {
+          "item": "Boots",
+          "needed": 50,
+          "received": 22
+        },
+        {
+          "item": "Canned Soup",
+          "needed": 50,
+          "received": 45
+        }
+      ],
+      "rank": 9
+    }
+  ],
+  "charity_rank": [
+    {
+      "id": 1,
+      "orgname": "Red Cross",
+      "orgID": "redcross",
+      "city": "Washington",
+      "state": "DC",
+      "imgID": "1JWjNA-uBUiPnpgXl86YzZY7HDdRitFDx",
+      "rank": 1
+    },
+    {
+      "id": 2,
+      "orgname": "Doctors Without Borders",
+      "orgID": "doctorswithoutborders",
+      "city": "New York",
+      "state": "NY",
+      "imgID": "1_BYSWEFnZ9G69PTJL5hGpO1lxw7nIIBT",
+      "rank": 2
+    },
+    {
+      "id": 3,
+      "orgname": "International Rescue Committee",
+      "orgID": "irc",
+      "city": "New York",
+      "state": "NY",
+      "imgID": "1e-YxFNuvuq82RL5jHfW2vWzF_R54emIy",
+      "rank": 3
+    },
+    {
+      "id": 4,
+      "orgname": "Feeding America",
+      "orgID": "feedingamerica",
+      "city": "Chicago",
+      "state": "IL",
+      "imgID": "1nvO4yJzaZ3LXetqCFg4BEJC1xAsOMuzr",
+      "rank": 4
+    },
+    {
+      "id": 5,
+      "orgname": "St. Jude Children's Research Hospital",
+      "orgID": "stjude",
+      "city": "Memphis",
+      "state": "TN",
+      "imgID": "1ISNMQGygeTjOkgCM0OmFALq3CkP_t3uY",
+      "rank": 5
+    },
+    {
+      "id": 6,
+      "orgname": "The Salvation Army",
+      "orgID": "salvationarmy",
+      "city": "Alexandria",
+      "state": "VA",
+      "imgID": "1kJcqZwncXRiFUdLPOqjfvJ9cPYRswES-",
+      "rank": 6
+    },
+    {
+      "id": 7,
+      "orgname": "Boys & Girls Clubs of America",
+      "orgID": "bgca",
+      "city": "Atlanta",
+      "state": "GA",
+      "imgID": "1diR0K-Oj3ozcCRYppAkwR5xSBovZ2OVy",
+      "rank": 7
+    },
+    {
+      "id": 8,
+      "orgname": "American Cancer Society",
+      "orgID": "acs",
+      "city": "Atlanta",
+      "state": "GA",
+      "imgID": "1htFnaBzlEJ03etLx_xDNomFDN1a-v7UQ",
+      "rank": 8
+    },
+    {
+      "id": 9,
+      "orgname": "Planned Parenthood Federation of America",
+      "orgID": "plannedparenthood",
+      "city": "Chicago",
+      "state": "IL",
+      "imgID": "1FWeubV5rWrMoGaW2jJg2kE6mWf0IXygJ",
+      "rank": 9
+    }
+  ],
+  "users": [
+    {
+      "username": "testasd",
+      "password": "admin",
+      "dayJoined": "26",
+      "monthJoined": "3",
+      "yearJoined": "2023",
+      "fav_charities": [
+        {
+          "name": "Red Cross",
+          "orgID": "redcross"
+        },
+        {
+          "name": "Feeding America",
+          "orgID": "feedingAmerica"
+        }
+      ],
+      "donation_history": [
+        {
+          "charity": "Red Cross",
+          "item": "Winter Jackets",
+          "date": "3/26/2023"
+        },
+        {
+          "charity": "Red Cross",
+          "item": "Boots",
+          "date": "3/26/2023"
+        },
+        {
+          "charity": "American Cancer Society",
+          "item": "Boots",
+          "date": "Mon Apr 03 2023 13:20:16 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+          "charity": "American Cancer Society",
+          "item": "Boots",
+          "date": "Mon Apr 03 2023 14:07:52 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+          "charity": "Boys & Girls Clubs of America",
+          "item": "Winter Jackets",
+          "date": "Mon Apr 03 2023 14:17:38 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+          "charity": "The Salvation Army",
+          "item": "Boots",
+          "date": "Mon Apr 03 2023 15:33:49 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+          "charity": "American Cancer Society",
+          "item": "Canned Soup",
+          "date": "Mon Apr 03 2023 15:45:21 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+          "charity": "St. Jude Children's Research Hospital",
+          "item": "Canned Soup",
+          "date": "Tue Apr 04 2023 08:53:00 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+          "charity": "Red Cross",
+          "item": "Winter Jackets",
+          "date": "Tue Apr 04 2023 13:02:38 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+          "charity": "Red Cross",
+          "item": "Boots",
+          "date": "Tue Apr 04 2023 13:02:38 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+          "charity": "Red Cross",
+          "item": "Canned Soup",
+          "date": "Tue Apr 04 2023 13:02:38 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+          "charity": "Doctors Without Borders",
+          "item": "Winter Jackets",
+          "date": "Tue Apr 04 2023 13:20:39 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+          "charity": "Doctors Without Borders",
+          "item": "Boots",
+          "date": "Tue Apr 04 2023 13:20:39 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+          "charity": "Doctors Without Borders",
+          "item": "Canned Soup",
+          "date": "Tue Apr 04 2023 13:20:39 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+          "charity": "Doctors Without Borders",
+          "item": "Winter Jackets",
+          "date": "Tue Apr 04 2023 13:22:11 GMT-0400 (Eastern Daylight Time)"
+        },
+        {
+          "charity": "Doctors Without Borders",
+          "item": "Boots",
+          "date": "Tue Apr 04 2023 13:22:11 GMT-0400 (Eastern Daylight Time)"
+        }
+      ],
+      "type": "user",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "username": "admincharity",
+      "password": "admin",
+      "fav_charities": [
+        {
+          "name": "Red Cross",
+          "orgID": "redcross"
+        },
+        {
+          "name": "Feeding America",
+          "orgID": "feedingAmerica"
+        }
+      ],
+      "donation_history": [
+        {
+          "charity": "Red Cross",
+          "item": "Winter Jackets",
+          "date": "3/26/2023"
+        },
+        {
+          "charity": "Red Cross",
+          "item": "Boots",
+          "date": "3/26/2023"
+        }
+      ],
+      "type": "charity"
+    },
+    {
+      "username": "admincharityexpress",
+      "address": "1 University Rd",
+      "state": "PA",
+      "city": "Philadelphia",
+      "zip": "19104",
+      "email": "admin@charityexpress.org",
+      "password": "admin",
+      "dayJoined": "26",
+      "monthJoined": "3",
+      "yearJoined": "2023",
+      "fav_charities": [
+        {
+          "name": "Red Cross",
+          "orgID": "redcross"
+        },
+        {
+          "name": "Feeding America",
+          "orgID": "feedingAmerica"
+        }
+      ],
+      "donation_history": [
+        {
+          "charity": "Red Cross",
+          "item": "Winter Jackets",
+          "date": "3/26/2023"
+        },
+        {
+          "charity": "Red Cross",
+          "item": "Boots",
+          "date": "3/26/2023"
+        }
+      ],
+      "type": "user",
+      "id": 3
+    },
+    {
+      "username": "tin",
+      "address": "tin",
+      "state": "tin",
+      "city": "tin",
+      "zip": "tin",
+      "email": "tin",
+      "password": "tin",
+      "dayJoined": "26",
+      "monthJoined": "3",
+      "yearJoined": "2023",
+      "fav_charities": [
+        {
+          "name": "Red Cross",
+          "orgID": "redcross"
+        },
+        {
+          "name": "Feeding America",
+          "orgID": "feedingAmerica"
+        }
+      ],
+      "donation_history": [
+        {
+          "charity": "Red Cross",
+          "item": "Winter Jackets",
+          "date": "3/26/2023"
+        },
+        {
+          "charity": "Red Cross",
+          "item": "Boots",
+          "date": "3/26/2023"
+        }
+      ],
+      "type": "organization",
+      "id": 4
+    },
+    {
+      "username": "tindo",
+      "address": "sdf",
+      "state": "sdf",
+      "city": "sdf",
+      "zip": "sdf",
+      "email": "lol",
+      "password": "tindo",
+      "dayJoined": "26",
+      "monthJoined": "3",
+      "yearJoined": "2023",
+      "fav_charities": [
+        {
+          "name": "Red Cross",
+          "orgID": "redcross"
+        },
+        {
+          "name": "Feeding America",
+          "orgID": "feedingAmerica"
+        }
+      ],
+      "donation_history": [
+        {
+          "charity": "Red Cross",
+          "item": "Winter Jackets",
+          "date": "3/26/2023"
+        },
+        {
+          "charity": "Red Cross",
+          "item": "Boots",
+          "date": "3/26/2023"
+        }
+      ],
+      "type": "user",
+      "id": 5
+    },
+    {
+      "username": "f",
+      "address": "ffff",
+      "state": "f",
+      "city": "f",
+      "zip": "f",
+      "email": "f",
+      "password": "f",
+      "dayJoined": "26",
+      "monthJoined": "3",
+      "yearJoined": "2023",
+      "fav_charities": [
+        {
+          "name": "Red Cross",
+          "orgID": "redcross"
+        },
+        {
+          "name": "Feeding America",
+          "orgID": "feedingAmerica"
+        }
+      ],
+      "donation_history": [
+        {
+          "charity": "Red Cross",
+          "item": "Winter Jackets",
+          "date": "3/26/2023"
+        },
+        {
+          "charity": "Red Cross",
+          "item": "Boots",
+          "date": "3/26/2023"
+        }
+      ],
+      "type": "user",
+      "id": 6
+    },
+    {
+      "username": "bigboi",
+      "address": "f",
+      "state": "ff",
+      "city": "ff",
+      "zip": "f",
+      "email": "f",
+      "password": "f",
+      "dayJoined": "26",
+      "monthJoined": "3",
+      "yearJoined": "2023",
+      "fav_charities": [
+        {
+          "name": "Red Cross",
+          "orgID": "redcross"
+        },
+        {
+          "name": "Feeding America",
+          "orgID": "feedingAmerica"
+        }
+      ],
+      "donation_history": [
+        {
+          "charity": "Red Cross",
+          "item": "Winter Jackets",
+          "date": "3/26/2023"
+        },
+        {
+          "charity": "Red Cross",
+          "item": "Boots",
+          "date": "3/26/2023"
+        }
+      ],
+      "type": "user",
+      "id": 7
+    },
+    {
+      "username": "hi",
+      "address": "f",
+      "state": "f",
+      "city": "f",
+      "zip": "f",
+      "email": "g",
+      "password": "f",
+      "dayJoined": "26",
+      "monthJoined": "3",
+      "yearJoined": "2023",
+      "fav_charities": [
+        {
+          "name": "Red Cross",
+          "orgID": "redcross"
+        },
+        {
+          "name": "Feeding America",
+          "orgID": "feedingAmerica"
+        }
+      ],
+      "donation_history": [
+        {
+          "charity": "Red Cross",
+          "item": "Winter Jackets",
+          "date": "3/26/2023"
+        },
+        {
+          "charity": "Red Cross",
+          "item": "Boots",
+          "date": "3/26/2023"
+        }
+      ],
+      "type": "user",
+      "id": 8
+    },
+    {
+      "username": "test",
+      "address": "a",
+      "state": "a",
+      "city": "a",
+      "zip": "a",
+      "email": "a",
+      "password": "a",
+      "dayJoined": "26",
+      "monthJoined": "3",
+      "yearJoined": "2023",
+      "fav_charities": [
+        {
+          "name": "Red Cross",
+          "orgID": "redcross"
+        },
+        {
+          "name": "Feeding America",
+          "orgID": "feedingAmerica"
+        }
+      ],
+      "donation_history": [
+        {
+          "charity": "Red Cross",
+          "item": "Winter Jackets",
+          "date": "3/26/2023"
+        },
+        {
+          "charity": "Red Cross",
+          "item": "Boots",
+          "date": "3/26/2023"
+        }
+      ],
+      "type": "user",
+      "id": 9
+    },
+    {
+      "username": "poweruser",
+      "address": "1 University Rd",
+      "state": "NY",
+      "city": "BOSTON",
+      "zip": "19104",
+      "email": "newadmin@charityexpress.org",
+      "password": "admin",
+      "dayJoined": "26",
+      "monthJoined": "3",
+      "yearJoined": "2023",
+      "type": "user",
+      "fav_charities": [
+        {
+          "name": "Red Cross",
+          "orgID": "redcross"
+        },
+        {
+          "name": "Feeding America",
+          "orgID": "feedingAmerica"
+        }
+      ],
+      "donation_history": [
+        {
+          "charity": "Red Cross",
+          "item": "Winter Jackets",
+          "date": "3/26/2023"
+        },
+        {
+          "charity": "Red Cross",
+          "item": "Boots",
+          "date": "3/26/2023"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "username": "admin",
+      "address": "Home",
+      "state": "PA",
+      "city": "Philly",
+      "zip": "19104",
+      "email": "tindo@sas.upenn.edu",
+      "password": "admin",
+      "dayJoined": "26",
+      "monthJoined": "3",
+      "yearJoined": "2023",
+      "type": "user",
+      "fav_charities": [
+        "Red Cross",
+        "Feeding America"
+      ],
+      "donation_history": [
+        {
+          "charity": "Red Cross",
+          "item": "Winter Jackets",
+          "date": "3/26/2023"
+        },
+        {
+          "charity": "Red Cross",
+          "item": "Boots",
+          "date": "3/26/2023"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "username": "happy",
+      "address": "1 University Rd",
+      "state": "PA",
+      "city": "Philadelphia",
+      "zip": "19104",
+      "email": "happy@cis3500.org",
+      "password": "happy",
+      "dayJoined": 31,
+      "monthJoined": 3,
+      "yearJoined": 2023,
+      "type": "user",
+      "fav_charities": [],
+      "donation_history": [],
+      "id": 12
+    }
+  ],
+  "notifications": [
+    {
+      "id": 1,
+      "recipientID": 123,
+      "senderID": 456,
+      "message": "Thank you for donating the couch! It has been delivered to the organization.",
+      "timeStamp": "2023-03-13T12:30:00Z",
+      "notificationType": "shipping"
+    },
+    {
+      "id": 2,
+      "recipientID": 789,
+      "senderID": 123,
+      "message": "I highly recommend this organization. They are doing great work!",
+      "timeStamp": "2023-03-12T15:30:00Z",
+      "notificationType": "pass_forward"
+    },
+    {
+      "id": 3,
+      "recipientID": 456,
+      "senderID": 0,
+      "message": "We are in urgent need of blankets. Please donate if you can.",
+      "timeStamp": "2023-03-11T08:15:00Z",
+      "notificationType": "promotion"
+    },
+    {
+      "id": 4,
+      "recipientID": 789,
+      "senderID": 456,
+      "message": "Thank you for donating the blankets! They will be used to keep people warm.",
+      "timeStamp": "2023-03-10T14:45:00Z",
+      "notificationType": "shipping"
+    },
+    {
+      "id": 5,
+      "recipientID": 123,
+      "senderID": 0,
+      "message": "There is a great organization doing work in your area. Check them out!",
+      "timeStamp": "2023-03-09T21:00:00Z",
+      "notificationType": "pass_forward"
+    },
+    {
+      "id": 6,
+      "recipientID": 789,
+      "senderID": 0,
+      "message": "We are in need of furniture for our new center. Please donate if you can.",
+      "timeStamp": "2023-03-08T11:30:00Z",
+      "notificationType": "promotion"
+    },
+    {
+      "id": 7,
+      "recipientID": 456,
+      "senderID": 789,
+      "message": "Thank you for donating the chairs! They will be put to good use.",
+      "timeStamp": "2023-03-07T17:20:00Z",
+      "notificationType": "shipping"
+    },
+    {
+      "id": 8,
+      "recipientID": 123,
+      "senderID": 0,
+      "message": "There is an organization that needs your help. Please consider donating to them.",
+      "timeStamp": "2023-03-06T09:45:00Z",
+      "notificationType": "pass_forward"
+    },
+    {
+      "id": 9,
+      "recipientID": 789,
+      "senderID": 0,
+      "message": "We need school supplies for the kids. Please donate if you can.",
+      "timeStamp": "2023-03-05T16:00:00Z",
+      "notificationType": "promotion"
+    },
+    {
+      "id": 10,
+      "recipientID": 456,
+      "senderID": 789,
+      "message": "Thank you for donating the notebooks and pencils! The kids will be very happy.",
+      "timeStamp": "2023-03-04T13:10:00Z",
+      "notificationType": "shipping"
+    },
+    {
+      "recipientID": 789,
+      "senderID": 654,
+      "message": "Congratulations on your promotion!",
+      "timeStamp": "2023-03-19 13:45:12",
+      "notificationType": "promotion"
+    },
+    {
+      "recipientID": 321,
+      "senderID": 987,
+      "message": "1Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+      "timeStamp": "2023-03-19 14:22:36",
+      "notificationType": "shipping"
+    },
+    {
+      "recipientID": 654,
+      "senderID": 789,
+      "message": "2Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+      "timeStamp": "2023-03-19 15:01:43",
+      "notificationType": "pass-forward"
+    },
+    {
+      "recipientID": 987,
+      "senderID": 321,
+      "message": "3Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+      "timeStamp": "2023-03-19 15:44:23",
+      "notificationType": "promotion"
+    },
+    {
+      "recipientID": 789,
+      "senderID": 654,
+      "message": "4Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+      "timeStamp": "2023-03-19 16:27:09",
+      "notificationType": "shipping"
+    },
+    {
+      "recipientID": 321,
+      "senderID": 987,
+      "message": "5Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+      "timeStamp": "2023-03-19 17:12:11",
+      "notificationType": "pass-forward"
+    },
+    {
+      "recipientID": 654,
+      "senderID": 789,
+      "message": "6Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+      "timeStamp": "2023-03-19 18:01:57",
+      "notificationType": "message"
+    },
+    {
+      "recipientID": 987,
+      "senderID": 321,
+      "message": "7Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+      "timeStamp": "2023-03-19 18:44:42",
+      "notificationType": "shipping"
+    },
+    {
+      "recipientID": 789,
+      "senderID": 654,
+      "message": "8Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+      "timeStamp": "2023-03-19 19:37:18",
+      "notificationType": "promotion"
+    },
+    {
+      "recipientID": 321,
+      "senderID": 987,
+      "message": "9Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+      "timeStamp": "2023-03-19 20:15:29",
+      "notificationType": "message"
+    },
+    {
+      "recipientID": 654,
+      "senderID": 789,
+      "message": "Your account has been credited.",
+      "timeStamp": "2023-03-19 21:00:12",
+      "notificationType": "message"
+    },
+    {
+      "recipientID": 987,
+      "senderID": 321,
+      "message": "Your order has been shipped!",
+      "timeStamp": "2023-03-19 21:55:11",
+      "notificationType": "shipping"
+    },
+    {
+      "recipientID": 789,
+      "senderID": 654,
+      "message": "Reminder: our meeting is tomorrow at 10am.",
+      "timeStamp": "2023-03-19 22:40:19",
+      "notificationType": "message"
+    },
+    {
+      "id": "24",
+      "recipientID": "9",
+      "senderID": "11",
+      "message": "yooo",
+      "timeStamp": "Tue Apr 04 2023 13:03:06 GMT-0400 (Eastern Daylight Time)",
+      "notificationType": "pass_forward"
+    },
+    {
+      "id": "25",
+      "recipientID": "11",
+      "senderID": "11",
+      "message": "Good morning, America!",
+      "timeStamp": "Tue Apr 04 2023 13:22:36 GMT-0400 (Eastern Daylight Time)",
+      "notificationType": "pass_forward"
+    }
+  ]
+}

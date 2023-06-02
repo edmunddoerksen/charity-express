@@ -1,0 +1,14 @@
+const rootURL = '';
+export const charityRankURL = `${rootURL}/api/rankedcharities`;
+export const charitiesURL = `${rootURL}/api/charities`;
+export const imgPath = '../assets';
+export const usersURL = `${rootURL}/api/users`;
+export const userURL = `${rootURL}/api/user`;
+export const notificationsURL = `${rootURL}/api/notifications`;
+export const imageURL = 'https://drive.google.com/uc?export=view&id=';
+export const twitterLogoURL = 'https://drive.google.com/uc?export=view&id=1l_GLAcVuBH6B3axvUCrweV452e4p82IM';
+export const instagramLogoURL = 'https://drive.google.com/uc?export=view&id=1xGKsiob-S3Zj_KWWeuneaaRMjuWoFfVx';
+export const API_KEY = process.env.REACT_APP_API_KEY;
+export const navbarLogo = 'https://drive.google.com/uc?export=view&id=1JWjNA-uBUiPnpgXl86YzZY7HDdRitFDx';
+export const coordinatesAPILink = 'https://maps.googleapis.com/maps/api/geocode/json?';
+export const backendURL = `${rootURL}`;
