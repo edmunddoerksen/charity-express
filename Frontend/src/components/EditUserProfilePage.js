@@ -84,13 +84,15 @@ function EditUserProfilePage() {
     const checkLogin = async () => {
       // attempt to retrieve token
       const token = sessionStorage.getItem('app-token');
-      // console.log(token);
+      console.log('180');
+      console.log(token);
       // check if token exists
       if (token) {
         // const isVerified = await verifyToken();
         try {
           // this return the username
           const response = await getUserProfile(token);
+          console.log('ninny');
           const currentUserName = response.username;
           // if the username request is not the same as the logged in user,
           // redirect to the logged in username
@@ -105,6 +107,7 @@ function EditUserProfilePage() {
       }
     };
     checkLogin();
+    console.log('180');
   }, []);
 
   const handleChange = (e) => {
@@ -144,6 +147,7 @@ function EditUserProfilePage() {
         email.current ? email.current : '',
         'user',
       );
+      console.log('testing');
 
       if (res.success) {
         // console.log('i am here3');
@@ -206,6 +210,7 @@ function EditUserProfilePage() {
 
   const handleClick = async (e) => {
     e.preventDefault();
+    console.log('tiberius');
     await performUpdate();
   };
 

@@ -91,6 +91,7 @@ function CharityDescription() {
   const handleClick = (e) => {
     if (e.target.name === 'progressBar') {
       setProgressBar(!progressBar);
+      console.log('hi');
     }
 
     if (e.target.name === 'map') {

@@ -28,8 +28,10 @@ export const getCharityFromRank = async (rank) => {
 export const getCharities = async () => {
   try {
     const response = await axios.get(`${charitiesURL}`);
+    console.log('dafuq');
     return response.data.data;
   } catch (err) {
+    console.log('error');
     return [];
   }
 };

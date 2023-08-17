@@ -77,6 +77,7 @@ function UserRegistration() {
 
     if (e.target.name === 'zip') {
       zip.current = e.target.value;
+      // console.log(zip.current);
     }
 
     if (e.target.name === 'email') {

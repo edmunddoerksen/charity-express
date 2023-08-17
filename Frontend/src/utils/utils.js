@@ -1,4 +1,4 @@
-const rootURL = '';
+export const rootURL = 'http://localhost:8080';
 export const charityRankURL = `${rootURL}/api/rankedcharities`;
 export const charitiesURL = `${rootURL}/api/charities`;
 export const imgPath = '../assets';

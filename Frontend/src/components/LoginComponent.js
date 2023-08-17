@@ -19,6 +19,7 @@ function LoginComponent() {
   useEffect(() => {
     const initializeLogin = async () => {
       // attempt to retrieve token
+      console.log('hello');
       const token = sessionStorage.getItem('app-token');
       // check if token exists
       if (token) {
@@ -131,8 +132,10 @@ function LoginComponent() {
 
   if (login === 'empty') {
     message = 'Please enter a username and password';
+    console.log('somethin');
   } else if (login === 'failure') {
     message = 'The username or password is incorrect';
+    console.log('something');
   }
 
   return (

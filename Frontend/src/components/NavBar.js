@@ -30,6 +30,7 @@ function NavBar({
   const routeChange = async () => {
     try {
       const response = await getUserProfile();
+      console.log('hello');
       // console.log(response.username);
       navigate(`/user/edit/${response.username}`);
       // console.log('my response is', response);
